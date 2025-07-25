@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "dev.kir.cubeswithborders.client.mixin",
+  "package": "dev.kirant.cubeswithborders.client.mixin",
   "compatibilityLevel": "JAVA_${java}",
   "client": [
     "WindowMixin"

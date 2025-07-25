@@ -5,12 +5,12 @@
   "name": "Cubes With Borders",
   "description": "A mod that tweaks the behavior of Minecraft's exclusive fullscreen mode.",
   "authors": [
-    "Kir_Antipov"
+    "Kira-NT"
   ],
   "contact": {
-    "homepage": "https://github.com/Kir-Antipov/cubes-with-borders",
-    "sources": "https://github.com/Kir-Antipov/cubes-with-borders",
-    "issues": "https://github.com/Kir-Antipov/cubes-with-borders/issues/new/choose"
+    "homepage": "https://github.com/Kira-NT/cubes-with-borders",
+    "sources": "https://github.com/Kira-NT/cubes-with-borders",
+    "issues": "https://github.com/Kira-NT/cubes-with-borders/issues/new/choose"
   },
   "license": "MIT",
   "icon": "assets/cubes-with-borders/icon.png",

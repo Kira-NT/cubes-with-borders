@@ -1,4 +1,4 @@
-package dev.kir.cubeswithborders.client.mixin;
+package dev.kirant.cubeswithborders.client.mixin;
 
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
